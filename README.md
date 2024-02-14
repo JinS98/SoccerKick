@@ -6,7 +6,7 @@
 
 `Member`  한승진
 
-`Client` <https://github.com/code-bootcamp/F10-team04-client>
+`Client` <https://github.com/JinS98/project>
 
 <br>
 
