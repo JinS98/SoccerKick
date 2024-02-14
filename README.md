@@ -6,7 +6,7 @@
 
 `Member`  한승진
 
-`Client` <https://github.com/JinS98/project>
+`Client` <https://github.com/JinS98/SoccerKick>
 
 <br>
 
